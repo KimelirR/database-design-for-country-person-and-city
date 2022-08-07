@@ -19,3 +19,11 @@ Author
 --------------
 Ronald Kimeli a.k.a [kimeli] 
 
+
+@
+* [Email] - Reach me through this mail to inquire or correct where possible
+
+
+
+
+[Email]:kimeliryans@gmail.com
