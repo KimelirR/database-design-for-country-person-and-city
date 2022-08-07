@@ -2,7 +2,7 @@ Database design
 ============
 
 *This is a simple database design on country, person and the city. It explains the relationship as well as participation. 
-*[We seee that person is super as it contains foreign key from both the entitis]
+*[We seee that person is super as it contains foreign key from both the entities]
 
 
 ![screnshot]( https://github.com/KimelirR/database-design-for-country-person-and-city/blob/main/Screenshot%20(7).png)
